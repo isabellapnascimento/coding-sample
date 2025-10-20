@@ -1,4 +1,4 @@
-This script is adapted from an Uchicago econometrics course, rewritten in a pedagogical format for easy replication and learning of basic models. :)
+This script is adapted from an Uchicago econometrics course, rewritten in a pedagogical format for easy replication and learning of basic models. 
 
 It covers three standard tasks:
 (Section 1) Binary outcome: Linear Probability Model (LPM) vs Probit
