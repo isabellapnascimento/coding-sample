@@ -12,3 +12,5 @@ How to use?
  - jtrain.dta  
 The DiD section uses organ_donations from the 'causaldata' package.
 3) Run in RStudio. Output is printed to the console.
+
+I will gladly accept feedback on isabellapestana@uchicago.edu or isabella.nascimento@fgv.br, if any. 
